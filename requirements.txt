@@ -1,5 +1,4 @@
 Flask
 pdfkit
-sqlite3
 werkzeug
 uuid
